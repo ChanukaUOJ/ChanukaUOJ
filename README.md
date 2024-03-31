@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chanuka Ranathunga</h1>
-<h3 align="center">A passionate mobile application developer from Sri Lanka. Currently reading for a honours degree in Computer Science.</h3>
+<h3 align="center">A passionate mobile application developer from Sri Lanka. Currently reading for an honours degree in Computer Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanukauoj&label=Profile%20views&color=0e75b6&style=flat" alt="chanukauoj" /> </p>
 
